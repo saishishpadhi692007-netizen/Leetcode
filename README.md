@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/saishishpadhi692007-netizen/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saishishpadhi692007-netizen/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saishishpadhi692007-netizen/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saishishpadhi692007-netizen/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1672-richest-customer-wealth](https://github.com/saishishpadhi692007-netizen/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/saishishpadhi692007-netizen/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/saishishpadhi692007-netizen/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/saishishpadhi692007-netizen/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saishishpadhi692007-netizen/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saishishpadhi692007-netizen/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/saishishpadhi692007-netizen/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saishishpadhi692007-netizen/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saishishpadhi692007-netizen/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
